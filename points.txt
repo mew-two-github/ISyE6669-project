@@ -1,0 +1,4 @@
+Part-A:
+* formulated the problem more or less (except storage separate variable i didnt put)
+* sections 2 and 3 of the report. enhanced q1
+* matched their answers
